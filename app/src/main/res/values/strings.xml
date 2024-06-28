@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConverterBitCoin</string>
+    <string name="choose_currency">Real</string>
+    <string name="choose_currency_hint">
+        <span style="normal">Escolha uma moeda</span>
+    </string>
+</resources>

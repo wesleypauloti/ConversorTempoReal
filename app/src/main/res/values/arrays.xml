@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currencies">
+        <item>Real</item>
+        <item>Bitcoin</item>
+        <item>Dólar</item>
+        <item>Euro</item>
+    </string-array>
+</resources>
